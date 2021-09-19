@@ -20,7 +20,7 @@ Once these calculations were completed, we were able to create the following Pyb
 
 Our second assignment was to create a multiple-line graph that shows the total fares for each week by city type. This was done using the following code after creating a weeky DataFrame of the date stamped records in 2019:
 
-![](
+![](Resources/Plot%20Code.PNG)
 
 We were able to create the line graph below:
 
