@@ -18,13 +18,19 @@ Once these calculations were completed, we were able to create the following Pyb
 
 ![](Resources/Summary.PNG)
 
+From this summary, we are able to come to the following conclusions given the data provided:
+
+- Urban cities have the highest amount of total rides, total drivers and total fares. On the other hand, they have the lowest average fare per driver and average fare per ride. 
+- Surburban cities have the second hightest amount of total rides, total drivers and total fares. While also haviing the second highest average fare per driver and average fare per ride.
+- Rural cities have the lowest total rides, total drivers and total fares. On the other hand, they have the highest average fare per driver and average fare per ride.
+
 Our second assignment was to create a multiple-line graph that shows the total fares for each week by city type. This was done using the following code after creating a weeky DataFrame of the date stamped records in 2019:
 
 ![](Resources/Plot%20Code.PNG)
 
 We were able to create the line graph below:
 
-![](
+![](Resources/Total%20Fare%20by%20City.PNG)
 
 
 
