@@ -28,12 +28,11 @@ Our second assignment was to create a multiple-line graph that shows the total f
 
 ![](Resources/Plot%20Code.PNG)
 
-We were able to create the line graph below:
+We were able to create the line graph below which clearly shows that throughout the year 2019 Urban cities had a consistantly higher total fares. Followed by Suburban cities and Rural cities respectively. 
 
 ![](Resources/Total%20Fare%20by%20City.PNG)
 
 
-
-
-
 ## Summary
+
+Overall, PyBer ridersharing services differ significantly in rural, suruban, and urban cities given the number of rides, drivers, and fares. The provided data supports that there is higher usage of PyBer ridesharing services in urban cities.
