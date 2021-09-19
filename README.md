@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Following our initial analysis, we are given an additional assignment. Using ou Python skills and knowledge of Pandas, we needd to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we will create a multiple-line graph that shows the total weekly fares for each city type. Once all these steps are completed, we will be able to see how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+Following our initial analysis, we are given an additional assignment. Using our Python skills and knowledge of Pandas, we need to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we will create a multiple-line graph that shows the total weekly fares for each city type. Once all these steps are completed, we will be able to see how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
 
